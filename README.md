@@ -6,7 +6,7 @@ This repository is a collection of my entertainment coding projects.
 
 1. Computer-Music
 
- Let computer sing a song with hard coded music notes. This is really time-comsuming work.
+Let computer sing a song with hard coded music notes. This is really time-comsuming work.
 
 2. COVID-19
 
